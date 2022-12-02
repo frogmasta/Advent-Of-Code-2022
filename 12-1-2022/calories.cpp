@@ -1,11 +1,31 @@
+/**
+ * @file calories.cpp
+ * @author Eric Roth
+ * @brief 
+ * @version 0.1
+ * @date 2022-12-01
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <fstream>
+#include <functional>
 #include <iostream>
 #include <numeric>
 #include <string>
 
 #include "../lib/heap.h"
+
 using namespace std;
 
+/**
+ * @brief Checks whether the first number is bigger than the second. 
+ * 
+ * @param first first number
+ * @param second second number
+ * @return true first is bigger
+ * @return false second is bigger 
+ */
 bool maxHeap(unsigned first, unsigned second) {
     return first > second;
 }
