@@ -1,3 +1,13 @@
+/**
+ * @file rps_part2.cpp
+ * @author Eric Roth
+ * @brief 
+ * @version 0.1
+ * @date 2022-12-01
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <fstream>
 #include <iostream>
 #include <string>
