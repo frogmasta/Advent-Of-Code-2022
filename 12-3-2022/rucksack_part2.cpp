@@ -11,7 +11,6 @@
  */
 
 #include <iostream>
-
 #include <cctype>
 #include <fstream>
 #include <iostream>
