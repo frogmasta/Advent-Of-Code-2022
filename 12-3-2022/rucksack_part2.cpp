@@ -9,8 +9,6 @@
  * 
  * Thought about using a disjoint sets data structure, but a map works just fine as well. 
  */
-
-#include <iostream>
 #include <cctype>
 #include <fstream>
 #include <iostream>
